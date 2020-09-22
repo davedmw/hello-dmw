@@ -8,6 +8,7 @@ class Person {
 	// 2. Subroutines (methods)
 	void speak() { //Lesson 14 - Methods
 		System.out.println("Slim Shady is Real Name, but My name is " + name + " and I am " + age + " years old!");
+		System.out.println("Ha Ha");
 	} // End Speak
 	
 	void sayHello() { //Lesson 14
